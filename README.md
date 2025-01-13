@@ -16,5 +16,5 @@ This project helps you never forget a birthday again!
 # Prerequisites
 
   Python 3.6 or higher: Make sure you have Python installed on your system. You can download it from python.org.
-  Vonage Account: You need a Vonage account to use their SMS API. Sign up for a free trial at vonage.com.
+  Vonage Account: You need a Vonage account to use their SMS API. Sign up for a free trial at vonage.com.   
   Vonage API Credentials: Once you have a Vonage account, you'll need your API key and secret. You can find these in your Vonage dashboard.
