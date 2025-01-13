@@ -1,5 +1,7 @@
 # birthday-sms-reminder
-This Python script uses the Vonage API to send a scheduled SMS message as a birthday reminder. It schedules the message to be sent once a year on a specified date and time.
+I created a small and efficent script uses the Vonage API to send a scheduled SMS message as a birthday reminder.
+It schedules the message to be sent once a year on a specified date and time.
+
 Key Features:
 
 *   Schedules SMS messages to be sent annually on a specific date and time.
